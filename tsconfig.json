@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "build",
+    "rootDir": "src",
+    "strict": true,
+    "inlineSourceMap": true,
+    "target": "es2017",
+    "lib": ["es2017", "esnext.asynciterable", "dom"]
+  },
+  "include": ["src"]
+}
